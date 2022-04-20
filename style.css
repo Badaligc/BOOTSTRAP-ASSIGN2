@@ -1,0 +1,14 @@
+.body-control{
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: black;
+    background-color: whitesmoke;
+}
+.img-fluid{
+    border: solid black 5px;
+    max-width: 100%;
+    height: auto;
+    margin-left:20px;
+}
